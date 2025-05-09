@@ -223,3 +223,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 100
   movespeed: 0.5
+  value: 10
